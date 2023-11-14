@@ -38,6 +38,7 @@ public class AvisoTiempo extends Thread {
         // Señala que el hilo ha terminado
         latch.countDown();
     }
+
 }
 
 
